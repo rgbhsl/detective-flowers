@@ -1,2 +1,4 @@
 .hometext {text-align: center; font-family: 'Courier New', Courier, monospace; vertical-align: middle;}
-.sidenav {height: 100% ; width: 20%; position: fixed; background-color: antiquewhite;}
+.sidenav {height: 100% ; width: 20%; position: fixed; background-color:darkseagreen; z-index: 1; overflow-x: hidden; padding-top: 20px;}
+.main {margin-left: 20%;}
+.newspaper {border-radius: 12px; background-color: blanchedalmond;}
