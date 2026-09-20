@@ -1,5 +1,5 @@
 .hometext {text-align: center; font-family: 'Courier New', Courier, monospace; vertical-align: middle;}
-.sidenav {height: 100% ; width: 50px; position: fixed; background-color:darkseagreen; z-index: 1; overflow-x: hidden; padding: 20px, 20px, 20px, 20px;}
+.sidenav {height: 100% ; width: 50px; position: fixed; background-color:lightpink; z-index: 1; overflow-x: hidden; padding: 20px, 20px, 20px, 20px;}
 .sidenav a {display:block; padding:4px 4px 4px 4px}
 .main {margin-left: 80px;}
 .newspaper {border-radius: 12px; background-color: blanchedalmond;}
