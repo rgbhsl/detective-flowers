@@ -11,6 +11,6 @@ Image here
 ## Decisions
 
 ## Acknowledgements
-HTML and CSS written entirely by myself
 - Images taken from free assets on Canva
-- I used w3schools for help with the navbar, I didn't copy paste
+- I used w3schools for help with the navbar in files.html (I didn't copy paste)
+
