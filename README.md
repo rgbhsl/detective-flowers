@@ -1,4 +1,16 @@
 # detective-flowers
+A choose-your-own-ending game in a website written in HTML and CSS.
+Image here
 
-Flower image from Canva free assets
-used w3 schools for help in some places (didnt copy paste)
+## Take a look at the rest: 
+
+## Features
+- Multiple sections with simple CSS formatting
+- Buttons to choose your own ending
+
+## Decisions
+
+## Acknowledgements
+HTML and CSS written entirely by myself
+- Images taken from free assets on Canva
+- I used w3schools for help with the navbar, I didn't copy paste
