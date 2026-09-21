@@ -10,7 +10,15 @@ Image here
 
 ## Decisions
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ## Acknowledgements
 - Images taken from free assets on Canva
 - I used w3schools for help with the navbar in files.html (I didn't copy paste)
-
+- Github Documentation for instructions on making a Mermaid diagram
