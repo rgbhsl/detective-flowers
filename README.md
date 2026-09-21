@@ -12,10 +12,12 @@ Image here
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    index --> files;
+    files --> shef1 & gardneri & housiei & botlleri & idki
+    shef1 --> index & files
+    
+
+   
 ```
 
 ## Acknowledgements
