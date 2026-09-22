@@ -16,31 +16,43 @@ Multiple sections with simple CSS formatting
 
 - Website layout map: 
 ```mermaid
+
 graph TD;
-    index --> files;
-    files --> shef1 & gardneri & housiei & botlleri & idontknowi
+    index --> files
+    files --> shef1 & gardneri & housiei & botlleri & welthiei
+
+%%Shef, 1 ending
     shef1 --> index & files
-    shef2 --> index & files
+
+%%Botller, 2 endings
+    botlleri --> botllerii & botller1
+    botllerii --> botller2
+    botller1 --> index & botlleri
+    botller2 --> index
+
+%%Gardner, 1 ending
+    gardneri --> gardner1
     gardner1 --> index & files
-    gardner2 --> index & files
-    bottler1 --> index & files
-    bottler2 --> index & files
-    gardneri -->  gardnerii & shef1
-    botlleri --> bottlerii & bottler1
-    gardnerii --> gardner1 & gardneriii
-    gardneriii --> shefii & gardner2
-    shefii --> shef2
-    bottlerii --> bottler2
-    idontknowi --> flowersi & welthiei
+
+%%Welthie, 1 ending
+    welthiei --> flowersi & welthie1 & botller1
+    welthie1 --> index & welthiei
+
+%%Flowers, 2 endings + 1 index ending
+    flowersi --> flowers1
+    housiei --> housieii & flowers2
+
+
+%%Housie, 2 endings + 1 index ending
+    housiei --> housieii & flowers2
+    housieii --> index1 & housieiii & housie1
+    housieiii --> index1 & housie2
+    housie1 --> index & files
+    housie2 --> index1
     
 
 
 
-
-
-
-
-   
 ```
 
 ## Acknowledgements
