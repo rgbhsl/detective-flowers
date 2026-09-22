@@ -20,6 +20,21 @@ graph TD;
     index --> files;
     files --> shef1 & gardneri & housiei & botlleri & idki
     shef1 --> index & files
+    shef2 --> index & files
+    gardner1 --> index & files
+    gardner2 --> index & files
+    bottler1 --> index & files
+    bottler2 --> index & files
+    gardneri -->  gardnerii & shef1
+    botlleri --> bottlerii & bottler1
+    gardnerii --> gardner1 & gardneriii
+    gardneriii --> shefii & gardner2
+    shefii --> shef2
+    bottlerii --> bottler2
+
+
+
+
 
 
    
