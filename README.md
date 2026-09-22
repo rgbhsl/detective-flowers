@@ -18,7 +18,7 @@ Multiple sections with simple CSS formatting
 ```mermaid
 graph TD;
     index --> files;
-    files --> shef1 & gardneri & housiei & botlleri & idki
+    files --> shef1 & gardneri & housiei & botlleri & idontknowi
     shef1 --> index & files
     shef2 --> index & files
     gardner1 --> index & files
@@ -31,6 +31,9 @@ graph TD;
     gardneriii --> shefii & gardner2
     shefii --> shef2
     bottlerii --> bottler2
+    idontknowi --> flowersi & welthiei
+    
+
 
 
 
