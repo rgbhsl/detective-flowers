@@ -28,7 +28,7 @@ graph TD;
     botlleri --> botllerii & botller1
     botllerii --> botller2
     botller1 --> index & botlleri
-    botller2 --> index
+    botller2 --> index & botlleri
 
 %%Gardner, 1 ending
     gardneri --> gardner1
@@ -39,7 +39,7 @@ graph TD;
     welthie1 --> index & welthiei
 
 %%Flowers, 2 endings + 1 index ending
-    flowersi --> flowers1
+    flowersi --> flowers1 & index1
     housiei --> housieii & flowers2
 
 
@@ -49,6 +49,10 @@ graph TD;
     housieiii --> index1 & housie2
     housie1 --> index & files
     housie2 --> index1
+
+%%Index (2 secret endings)
+ index1 --> truth & victory
+
     
 
 
