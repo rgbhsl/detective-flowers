@@ -19,7 +19,7 @@ Multiple sections with simple CSS formatting
 
 graph TD;
     index --> files
-    files --> shef1 & gardneri & housiei & botlleri & welthiei
+    files --> shef1 & gardner1 & housiei & botlleri & welthiei
 
 %%Shef, 1 ending
     shef1 --> index & files
@@ -31,19 +31,18 @@ graph TD;
     botller2 --> index & botlleri
 
 %%Gardner, 1 ending
-    gardneri --> gardner1
     gardner1 --> index & files
 
 %%Welthie, 1 ending
     welthiei --> flowersi & welthie1 & botller1
     welthie1 --> index & welthiei
 
-%%Flowers, 2 endings + 1 index ending
+%%Flowers, 2 endings
     flowersi --> flowers1 & index1
     housiei --> housieii & flowers2
 
 
-%%Housie, 2 endings + 1 index ending
+%%Housie, 2 endings
     housiei --> housieii & flowers2
     housieii --> index1 & housieiii & housie1
     housieiii --> index1 & housie2
