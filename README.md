@@ -8,11 +8,13 @@ Image here
 ## Features
 - x unique endings 
 Multiple sections with simple CSS formatting
-- Buttons to choose your own ending
+- Buttons to navigate the story
 
 ## How it works
 
-- Entirely made with HTML and CSS, with the written sections being fully original
+- Entirely made with HTML and CSS, with the written sections being fully original.
+
+- The user uses buttons to navigate the story, automating the process of "flipping a page" in a physical novel. 
 
 - Website layout map: 
 ```mermaid
@@ -51,12 +53,8 @@ graph TD;
 
 %%Index (2 secret endings)
  index1 --> truth & victory
-
-    
+ 
 ```
-
-
-
 
 ## Acknowledgements
 - Images taken from free assets on Canva
