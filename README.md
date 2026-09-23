@@ -7,14 +7,14 @@ Image here
 
 ## Features
 - x unique endings 
+- x pages
 Multiple sections with simple CSS formatting
 - Buttons to navigate the story
 
 ## How it works
 
 - Entirely made with HTML and CSS, with the written sections being fully original.
-
-- The user uses buttons to navigate the story, automating the process of "flipping a page" in a physical novel. 
+- The user uses buttons to navigate the story, automating the process of "flipping a page" in a physical interactive novel. 
 
 - Website layout map: 
 ```mermaid
@@ -40,7 +40,6 @@ graph TD;
 %%Flowers, 2 endings
     flowersi --> flowers1 & index1
     housiei --> housieii & flowers2
-
 
 %%Housie, 2 endings
     housiei --> housieii & flowers2
