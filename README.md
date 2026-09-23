@@ -21,35 +21,34 @@ Multiple sections with simple CSS formatting
 
 graph TD;
     index --> files
-    files --> shef1 & gardner1 & housiei & botlleri & welthiei
+    files --> shef1(END1) & gardner1(END3) & housiei & botlleri & welthiei
 
 %%Shef, 1 ending
-    shef1 --> index & files
+    shef1(END1) --> index & files
 
 %%Botller, 1 ending
     botlleri --> botllerii & botller1
-    botllerii --> botller1 --> index & botlleri
+    botllerii --> botller1(END2) --> index & botlleri
 
 %%Gardner, 1 ending
-    gardner1 --> index & files
+    gardner1(END3) --> index & files
 
 %%Welthie, 1 ending
     welthiei --> flowersi & welthie1 & botller1
-    welthie1 --> index & welthiei
+    welthie1(END4) --> index & welthiei
 
 %%Flowers, 2 endings
-    flowersi --> flowers1 & index1
-    housiei --> housieii & flowers2
+    flowersi --> flowers1(END5) & index1(END8.5)
+    housiei --> housieii & flowers2(END6)
 
 %%Housie, 2 endings
-    housiei --> housieii & flowers2
-    housieii --> index1 & housieiii & housie1
-    housieiii --> index1 & housie2
-    housie1 --> index & files
-    housie2 --> index1
+    housieii --> housieiii & housie1(END7)
+    housieiii --> index1(END8.5) & housie2(END8)
+    housie1(END7) --> index & files
+    housie2(END8) --> index1(END8.5)
 
 %%Index (2 secret endings)
- index1 --> truth & victory
+ index1(END8.5) --> truth(END9) & victory(END10)
  
 ```
 
