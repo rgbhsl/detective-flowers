@@ -34,7 +34,7 @@ graph TD;
     gardner1(END3) --> index & files
 
 %%Welthie, 1 ending
-    welthiei --> flowersi & welthie1 & botller1
+    welthiei --> flowersi & welthie1
     welthie1(END4) --> index & welthiei
 
 %%Flowers, 2 endings
