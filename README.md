@@ -55,10 +55,7 @@ graph TD;
     
 ```
 
-Smith and Noble point out that middle class students are more likely to attend private schools where:
-a - they have access to better qualified or experienced teachers coupled with a lower teacher-student ratio. as a result middle class students recieve more attention from their teachers. Classrooms tend to be more engaging which helps explain why they may do better in the education system.
-b - furthermore, children in private schools have more facilities such as a diverse range of science labs, and oppurtunities such as a wider range of subjects to choose from. As a result, it is more likely that middle class children in these schools to have the oppurtunity to find something to enjoy and excel in. Middle class children also do well since they can afford extras, such as private tutors to provide specialised support and address individual problems. They can afford extra textbooks which can aid in their preparation. They're able to afford field trips which provide more context (cultural capital). As a result, middle class students are more likely to be able to buy support and assistance that helps them do better in the education system. 
-c - working class children are less likely to grow up in an enivronment conducive to studying. 
+
 
 
 ## Acknowledgements
