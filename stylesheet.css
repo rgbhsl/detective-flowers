@@ -1,4 +1,4 @@
-.hometext {text-align: center; font-family: 'Courier New', Courier, monospace; padding-right: 30%; padding-left: 30%;}
+.hometext {text-align: center; font-family: 'Courier New', Courier, monospace; padding-right: 30%; padding-left: 30%; vertical-align: middle;}
 .sidenav {height: 100% ; width: 100px; position: fixed; background-color:lightpink; z-index: 1; overflow-x: hidden; padding: 20px, 20px, 20px, 20px;}
 .sidenav a {display:block; padding:4px 4px 4px 4px ;}
 .main {margin-left: 120px;}
