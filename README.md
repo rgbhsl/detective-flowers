@@ -26,8 +26,8 @@ graph TD;
 %%Shef, 1 ending
     shef1(END1) --> index & files
 
-%%Botller, 1 ending
-    botlleri --> botllerii & botller1
+%%Botller, 1 ending 
+    botlleri --> botllerii & botller1 
     botllerii --> botller1(END2) --> index & botlleri
 
 %%Gardner, 1 ending
