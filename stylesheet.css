@@ -4,5 +4,5 @@
 .main {margin-left: 120px;}
 .newspaper {border-radius: 12px; background-color: blanchedalmond;}
 .endex {background-color: black; font-family: 'Courier New', Courier, monospace;}
-.endex h1, h2, a, p {color: white;}
+.endex h1, .endex h2, .endex a, .endex p {color: white;}
 .startbutton {margin:auto; size: 20%;}
